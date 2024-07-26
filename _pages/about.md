@@ -84,17 +84,10 @@ I expect to be on the job market in 2025 and looking for positions in academia o
 
 # Honors and Awards
 On construction
-<!-- - *2023.09* : Outstanding Ph.D. Scholarship of Yang Yuanqing Education Fund
-- *2022.09* : Ph.D. National Scholarship -->
-<!-- # 🎖 Honors and Awards -->
 
 # Experiences
 On construction
-<!-- - *2023.12 - Now*, Visiting Scholar - School of Computer Science and Engineering, Nanyang Technological University 
-- *2023.09 - Now*, Postdoc - Department of Computer Science and Engineering, Shanghai Jiao Tong University. 
-- *2021.04 - 2022.04*, Research Intern - Alibaba Cloud. 
-- *2018.09 - 2023.09*, Ph.D - Department of Computer Science and Engineering, Shanghai Jiao Tong University. 
-- *2014.09 - 2018.06*, Bachelor - School of Information and Software Engineering, University Of Electronic Science And Technology Of China. -->
+
 
 <!-- # 📖 Educations -->
 
