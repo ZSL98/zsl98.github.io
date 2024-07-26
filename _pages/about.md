@@ -42,7 +42,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a fourth-year Ph.D. candidate at [Emerging Parallel Computing Center (EPCC)](http://epcc.sjtu.edu.cn), supervised by [Prof. Quan Chen](https://www.cs.sjtu.edu.cn/~chen-quan/index_EN.html).
-I am expecting to be on the job market in 2025 and looking for positions in academia or industry, where I can donate myself for future AI systems. My research interest lies in optimizing AI systems on GPUs, leveraging techniques including scheduling/compiling/resource-managing.
+I expect to be on the job market in 2025 and looking for positions in academia or industry, where I can contribute to advancing AI systems. My research interest lies in optimizing AI systems on GPUs, leveraging techniques including scheduling/compiling/resource-managing.
 
 <!-- I am now a Postdoc at [Emerging Parallel Computing Center (EPCC)](http://epcc.sjtu.edu.cn) and a visiting scholar at NTU (Nanyang Technological University) [S-Lab](https://personal.ntu.edu.sg/tianwei.zhang/supervision.html). I obtained my Ph.D. from Shanghai Jiao Tong University (SJTU) under the supervision of [Prof. Quan Chen](https://www.cs.sjtu.edu.cn/~chen-quan/index_EN.html) and [Prof. Minyi Guo](https://cs.sjtu.edu.cn/~guo-my/). Before that, I received Bachelor degree at School of Information and Software Engineering, University Of Electronic Science And Technology Of China (UESTC). My research interests include Cloud-Native System and General-purpose Serverless Computing, particularly how to design serverless systems and provide elastic resource management for workflows and stateful functions. If you are interested in my project details, feel free to email me. 
 -->
