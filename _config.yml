@@ -6,29 +6,31 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zijun Li (李 子俊)"
-description              : "S-Lab for Advanced Intelligence, Nanyang Technological University"
-repository               : "lzjzx1122/lzjzx1122.github.io"
+title                    : "Shulai Zhang (张 舒来)"
+description              : "Shanghai Jiao Tong University"
+repository               : "zsl98/zsl98.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  I5qgs1UCl3BqsuznTMsh1PYE4Nk9tieBS7sl6IEkc_c
-bing_site_verification   :  24B054A380E1B4B49A085F4EA91031AE
+# google_site_verification :  I5qgs1UCl3BqsuznTMsh1PYE4Nk9tieBS7sl6IEkc_c
+# bing_site_verification   :  24B054A380E1B4B49A085F4EA91031AE
+google_site_verification :  
+bing_site_verification   :  
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Zijun Li (李 子俊)"
+  name             : "Shulai Zhang (张 舒来)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Emerging Parallel Computing Center, Shanghai Jiao Tong University"
-  location         : "Shanghai/Singapore"
+  location         : "Shanghai"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=cHjjhw0AAAAJ"
-  email            : "lzjzx1122@sjtu.edu.cn"
+  email            : "zslzsl1998@sjtu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,15 +39,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lzjzx1122"
+  github           : "ZSL98"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/44/10301-1.html"
-  orcid            : "https://orcid.org/0000-0003-4706-8451"
+  dblp             : 
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
