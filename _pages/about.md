@@ -79,26 +79,22 @@ I am expecting to be on the job market in 2025 and looking for positions in acad
 <li><div class="pubtitle">Globecom 2019</div> &nbsp;<span class="font-bold">Shulai Zhang</span>, Meixia Tao, Zhiyong Chen. Exploiting Caching and Prediction to Promote User Experience for a Real-time Wireless VR Service.</li>
 </ul>
 <!--
-<a href='https://scholar.google.com/citations?user=cHjjhw0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Total google scholar citations"></a>
--->
+<a href='https://scholar.google.com/citations?user=cHjjhw0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Total google scholar citations"></a> -->
+
 
 # Honors and Awards
-- On construction
-<!--
-- *2023.09* : Outstanding Ph.D. Scholarship of Yang Yuanqing Education Fund
-- *2022.09* : Ph.D. National Scholarship
--->
+On construction
+<!-- - *2023.09* : Outstanding Ph.D. Scholarship of Yang Yuanqing Education Fund
+- *2022.09* : Ph.D. National Scholarship -->
 <!-- # 🎖 Honors and Awards -->
 
 # Experiences
-- On construction
-<!--
-- *2023.12 - Now*, Visiting Scholar - School of Computer Science and Engineering, Nanyang Technological University 
+On construction
+<!-- - *2023.12 - Now*, Visiting Scholar - School of Computer Science and Engineering, Nanyang Technological University 
 - *2023.09 - Now*, Postdoc - Department of Computer Science and Engineering, Shanghai Jiao Tong University. 
 - *2021.04 - 2022.04*, Research Intern - Alibaba Cloud. 
 - *2018.09 - 2023.09*, Ph.D - Department of Computer Science and Engineering, Shanghai Jiao Tong University. 
-- *2014.09 - 2018.06*, Bachelor - School of Information and Software Engineering, University Of Electronic Science And Technology Of China.
--->
+- *2014.09 - 2018.06*, Bachelor - School of Information and Software Engineering, University Of Electronic Science And Technology Of China. -->
 
 <!-- # 📖 Educations -->
 
@@ -112,10 +108,8 @@ I am expecting to be on the job market in 2025 and looking for positions in acad
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 <!-- # 💻 Internships -->
 
-<!--
-<hr>
+<!-- <hr>
 <img alt="last updated" src="https://img.shields.io/github/last-commit/lzjzx1122/lzjzx1122.github.io?color=e8e8e8&label=Last%20Updated&logo=Convertio&logoColor=white&style=flat-square&labelColor=gray">  &nbsp;
 
-<a href="http://s01.flagcounter.com/more/gWC"><img src="https://s01.flagcounter.com/count2/gWC/bg_F5F5F5/txt_000000/border_8C8C8C/columns_4/maxflags_8/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
--->
+<a href="http://s01.flagcounter.com/more/gWC"><img src="https://s01.flagcounter.com/count2/gWC/bg_F5F5F5/txt_000000/border_8C8C8C/columns_4/maxflags_8/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
 
