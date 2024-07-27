@@ -88,10 +88,10 @@ My research interests lie in optimizing AI systems on modern hardware (GPU/NPU),
 - *2023*, Resource management and compilation co-design to optimize AI model performance, Alibaba Group.
 
 # Experiences
-- *2024.07 - Now* Research Intern - ByteDance.
-- *2020.06 - 2020.10* Research Intern - Agora.
-- *2019.07 - 2020.05* Research Intern - Georgia Institute of Technology.
-- *2016.09 - 2020.06* Bachelor - Information Engineering, Shanghai Jiao Tong University.
+- *2024.07 - Now*, Research Intern - ByteDance.
+- *2020.06 - 2020.10*, Research Intern - Agora.
+- *2019.07 - 2020.05*, Research Intern - Georgia Institute of Technology.
+- *2016.09 - 2020.06*, Bachelor - Information Engineering, Shanghai Jiao Tong University.
 <!-- # 📖 Educations -->
 
 <!-- # Invited Talks
