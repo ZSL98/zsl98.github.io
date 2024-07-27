@@ -41,8 +41,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth-year Ph.D. candidate at [Emerging Parallel Computing Center (EPCC)](http://epcc.sjtu.edu.cn), supervised by [Prof. Quan Chen](https://www.cs.sjtu.edu.cn/~chen-quan/index_EN.html).
-I expect to be on the job market in 2025 and looking for positions in academia or industry, where I can contribute to advancing AI systems. My research interest lies in optimizing AI systems on GPUs, leveraging techniques including scheduling/compiling/resource-managing.
+I am a fourth-year Ph.D. candidate at [Emerging Parallel Computing Center (EPCC)](http://epcc.sjtu.edu.cn), Shanghai Jiao Tong University, supervised by [Prof. Quan Chen](https://www.cs.sjtu.edu.cn/~chen-quan/index_EN.html).
+My research interests lie in optimizing AI systems on modern hardware (GPU/NPU), leveraging techniques including scheduling/compiling/resource-managing. I expect to enter the job market in 2025 and am currently seeking a position in academia or industry to contribute to the advancement of future compute systems. Feel free to email me if you are interested.
 
 <!-- I am now a Postdoc at [Emerging Parallel Computing Center (EPCC)](http://epcc.sjtu.edu.cn) and a visiting scholar at NTU (Nanyang Technological University) [S-Lab](https://personal.ntu.edu.sg/tianwei.zhang/supervision.html). I obtained my Ph.D. from Shanghai Jiao Tong University (SJTU) under the supervision of [Prof. Quan Chen](https://www.cs.sjtu.edu.cn/~chen-quan/index_EN.html) and [Prof. Minyi Guo](https://cs.sjtu.edu.cn/~guo-my/). Before that, I received Bachelor degree at School of Information and Software Engineering, University Of Electronic Science And Technology Of China (UESTC). My research interests include Cloud-Native System and General-purpose Serverless Computing, particularly how to design serverless systems and provide elastic resource management for workflows and stateful functions. If you are interested in my project details, feel free to email me. 
 -->
@@ -82,13 +82,16 @@ I expect to be on the job market in 2025 and looking for positions in academia o
 <a href='https://scholar.google.com/citations?user=cHjjhw0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Total google scholar citations"></a> -->
 
 
-# Honors and Awards
-On construction
+# Projects
+- *2024*, Performance isolation tools for multi-tenant NPU, Institute of Computing Technology, Chinese Academy of Sciences.
+- *2023*, Kernel-space virtualization for GPU sharing, Lenovo.
+- *2023*, Resource management and compilation co-design to optimize AI model performance, Alibaba Group.
 
 # Experiences
-On construction
-
-
+- *2024.07 - Now* Research Intern - ByteDance.
+- *2020.06 - 2020.10* Research Intern - Agora.
+- *2019.07 - 2020.05* Research Intern - Georgia Institute of Technology.
+- *2016.09 - 2020.06* Bachelor - Information Engineering, Shanghai Jiao Tong University.
 <!-- # 📖 Educations -->
 
 <!-- # Invited Talks
