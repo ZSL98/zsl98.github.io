@@ -94,7 +94,7 @@ Feel free to reach out if you are interested in potential collaboration!
 <li><div class="pubtitle">Arxiv Preprint</div> &nbsp;<span class="font-bold">Shulai Zhang</span>, Ao Xu, Quan Chen, Han Zhao, Weihao Cui, Ningxin Zheng, Haibin Lin, Xin Liu, Minyi Guo. Boosting Embodied AI Agents through Perception-Generation Disaggregation and Asynchronous Pipeline Execution.</li>
 <li><div class="pubtitle">Arxiv Preprint</div> &nbsp;Chunyu Xue, Weihao Cui, Han Zhao, Quan Chen, <span class="font-bold">Shulai Zhang</span>, Pengyu Yang, Jing Yang, Shaobo Li, Minyi Guo. A codesign of scheduling and parallelization for large model training in heterogeneous clusters.</li>
 <li><div class="pubtitle">Arxiv Preprint</div> &nbsp;Han Zhao, Weihao Cui, Quan Chen, <span class="font-bold">Shulai Zhang</span>, Zijun Li, Jingwen Leng, Chao Li, Deze Zeng, Minyi Guo. Towards fast setup and high throughput of GPU serverless computing.</li>
-<ul>
+</ul>
 <!--
 <a href='https://scholar.google.com/citations?user=cHjjhw0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Total google scholar citations"></a> -->
 
