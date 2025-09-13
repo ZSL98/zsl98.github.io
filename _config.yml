@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shulai Zhang (张舒来)"
+title                    : "Shulai Zhang\n张舒来"
 description              : ""
 repository               : "zsl98/zsl98.github.io"
 google_scholar_stats_use_cdn : true
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shulai Zhang (张舒来)"
+  name             : "Shulai Zhang\n张舒来"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Photo taken in Hawaii, 2019."
   location         : "Shanghai"
