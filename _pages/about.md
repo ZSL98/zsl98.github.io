@@ -41,9 +41,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth-year Ph.D. candidate at [Emerging Parallel Computing Center (EPCC)](http://epcc.sjtu.edu.cn), Shanghai Jiao Tong University, supervised by [Prof. Quan Chen](https://www.cs.sjtu.edu.cn/~chen-quan/index_EN.html).
-My research interests lie in optimizing AI systems on modern hardware (GPU/NPU), leveraging techniques including scheduling/compiling/resource-managing. 
-I expect to enter the job market in 2025 and am currently seeking a position in academia or industry to contribute to the advancement of future compute systems. My CV is [here](cv_2024_ShulaiZhang_EN_v2.pdf). Feel free to email me if you are interested.
+I am Shulai Zhang, a research scientist at Huawei's 2012 lab. I received my Ph.D. degree in Computer Science from Shanghai Jiao Tong University, supervised by [Prof. Quan Chen](https://www.cs.sjtu.edu.cn/~chen-quan/index_EN.html).
+My research interests lie in optimizing AI systems on modern hardware, leveraging techniques including scheduling/compiling/resource-managing. I am now focusing on building data-centric OS infrastructure tailored for LLM/RL systems. Prior to joining Huawei, I had a wonderful experience at Bytedance [Seed](https://seed.bytedance.com/en/).
+Feel free to reach out if you are interested in potential collaboration!
 
 <!-- I am now a Postdoc at [Emerging Parallel Computing Center (EPCC)](http://epcc.sjtu.edu.cn) and a visiting scholar at NTU (Nanyang Technological University) [S-Lab](https://personal.ntu.edu.sg/tianwei.zhang/supervision.html). I obtained my Ph.D. from Shanghai Jiao Tong University (SJTU) under the supervision of [Prof. Quan Chen](https://www.cs.sjtu.edu.cn/~chen-quan/index_EN.html) and [Prof. Minyi Guo](https://cs.sjtu.edu.cn/~guo-my/). Before that, I received Bachelor degree at School of Information and Software Engineering, University Of Electronic Science And Technology Of China (UESTC). My research interests include Cloud-Native System and General-purpose Serverless Computing, particularly how to design serverless systems and provide elastic resource management for workflows and stateful functions. If you are interested in my project details, feel free to email me. 
 -->
@@ -70,7 +70,11 @@ I expect to enter the job market in 2025 and am currently seeking a position in 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+### Published
 <ul>
+<li><div class="pubtitle">ATC 2025</div> &nbsp;<span class="font-bold">Shulai Zhang</span>, Ao Xu, Quan Chen, Han Zhao, Weihao Cui, Zhen Wang, Yan Li, Limin Xiao, Minyi Guo. Efficient Performance-Aware GPU Sharing with Compatibility and Isolation through Kernel Space Interception.</li>
+<li><div class="pubtitle">MLSys 2025</div> &nbsp;<span class="font-bold">Shulai Zhang</span>, Ningxin Zheng, Haibin Lin, Ziheng Jiang, Wenlei Bao, Chengquan Jiang, Qi Hou, Weihao Cui, Size Zheng, Li-Wen Chang, Quan Chen, Xin Liu. Comet: Fine-grained computation-communication overlapping for mixture-of-experts.</li>
+<li><div class="pubtitle">TACO 2025</div> &nbsp;Yifu He, Han Zhao, Weihao Cui, <span class="font-bold">Shulai Zhang</span>, Quan Chen, Minyi Guo. Arachine: Optimizing distributed parallel applications with reduced inter-process communication.</li>
 <li><div class="pubtitle">EuroSys 2025</div> &nbsp;<span class="font-bold">Shulai Zhang</span>, Quan Chen, Weihao Cui, Han Zhao, Chunyu Xue, Zhen Zheng, Wei Lin, Minyi Guo. Improving GPU Sharing Performance through Adaptive Bubbleless Spatial-Temporal Sharing.</li>
 <li><div class="pubtitle">SoCC 2023</div> &nbsp;Binghao Chen, Han Zhao, Weihao Cui, Yifu He, <span class="font-bold">Shulai Zhang</span>, Quan Chen, Zijun Li, Minyi Guo. Maximizing the Utilization of GPUs Used by Cloud Gaming through Adaptive Co-location with Combo.</li>
 <li><div class="pubtitle">ICS 2022</div> &nbsp;<span class="font-bold">Shulai Zhang</span>, Weihao Cui, Quan Chen, Zhengnian Zhang, Yue Guan, Jingwen Leng, Chao Li, Minyi Guo. PAME: precision-aware multi-exit DNN serving for reducing latencies of batched inferences.</li>
@@ -79,6 +83,11 @@ I expect to enter the job market in 2025 and am currently seeking a position in 
 <li><div class="pubtitle">SPAWC 2020</div> &nbsp;Kaiwen Zheng, <span class="font-bold">Shulai Zhang</span>, Xiaoli Ma. Difficulty Prediction for Proof-of-Work Blockchains.</li>
 <li><div class="pubtitle">Globecom 2019</div> &nbsp;<span class="font-bold">Shulai Zhang</span>, Meixia Tao, Zhiyong Chen. Exploiting Caching and Prediction to Promote User Experience for a Real-time Wireless VR Service.</li>
 </ul>
+
+### Preprint
+<li><div class="pubtitle">Arxiv Preprint</div> &nbsp;<span class="font-bold">Shulai Zhang</span>, Ao Xu, Quan Chen, Han Zhao, Weihao Cui, Ningxin Zheng, Haibin Lin, Xin Liu, Minyi Guo. Boosting Embodied AI Agents through Perception-Generation Disaggregation and Asynchronous Pipeline Execution.</li>
+<li><div class="pubtitle">Arxiv Preprint</div> &nbsp;Chunyu Xue, Weihao Cui, Han Zhao, Quan Chen, <span class="font-bold">Shulai Zhang</span>, Pengyu Yang, Jing Yang, Shaobo Li, Minyi Guo. A codesign of scheduling and parallelization for large model training in heterogeneous clusters.</li>
+<li><div class="pubtitle">Arxiv Preprint</div> &nbsp;Han Zhao, Weihao Cui, Quan Chen, <span class="font-bold">Shulai Zhang</span>, Zijun Li, Jingwen Leng, Chao Li, Deze Zeng, Minyi Guo. Towards fast setup and high throughput of GPU serverless computing.</li>
 <!--
 <a href='https://scholar.google.com/citations?user=cHjjhw0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Total google scholar citations"></a> -->
 
@@ -89,9 +98,8 @@ I expect to enter the job market in 2025 and am currently seeking a position in 
 - *2023*, Resource management and compilation co-design to optimize AI model performance, Alibaba Group.
 
 # Experiences
-- *2024.07 - Now*, Research Intern - ByteDance.
-- *2020.06 - 2020.10*, Research Intern - Agora.
-- *2019.07 - 2020.05*, Research Intern - Georgia Institute of Technology.
+- *2024.07 - 2025.06*, Research Intern - ByteDance Seed, contributed to open-sourced projects, [verl](https://github.com/volcengine/verl), [vllm](https://github.com/vllm-project/vllm), [Flux](https://github.com/bytedance/flux)
+- *2019.07 - 2020.05*, Research Intern - Georgia Institute of Technology, envolved in PoW blockchain projects.
 - *2016.09 - 2020.06*, Bachelor - Information Engineering, Shanghai Jiao Tong University.
 <!-- # 📖 Educations -->
 

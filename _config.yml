@@ -25,12 +25,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shulai Zhang (张 舒来)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Emerging Parallel Computing Center, Shanghai Jiao Tong University"
+  bio              : "Efficient I/O"
   location         : "Shanghai"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=OCb9jRIAAAAJ"
-  email            : "zslzsl1998@sjtu.edu.cn"
+  email            : "zhangshulai@huawei.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
