@@ -77,6 +77,8 @@ Feel free to reach out if you are interested in potential collaboration!
 </div> -->
 ### Published
 <ul>
+<li><div class="pubtitle">EuroSys 2026</div> &nbsp;Chunyu Xue, Weihao Cui, Quan Chen, Chen Chen, Han Zhao, <span class="font-bold">Shulai Zhang</span>, Linmei Wang, Yan Li, Limin Xiao, Weifeng Zhang, Jing Yang, Bingsheng He, Minyi Guo. Arena: Efficiently Training Large Models via Dynamic Scheduling and Adaptive Parallelism Co-Design.</li>
+<li><div class="pubtitle">NSDI 2026</div> &nbsp;Chunyu Xue, Yi Pan, Weihao Cui, Quan Chen, <span class="font-bold">Shulai Zhang</span>, Bingsheng He, Minyi Guo. MuxTune: Efficient Multi-Task LLM Fine-Tuning in Multi-Tenant Datacenters via Spatial-Temporal Backbone Multiplexing.</li>
 <li><div class="pubtitle">ATC 2025</div> &nbsp;<span class="font-bold">Shulai Zhang</span>, Ao Xu, Quan Chen, Han Zhao, Weihao Cui, Zhen Wang, Yan Li, Limin Xiao, Minyi Guo. Efficient Performance-Aware GPU Sharing with Compatibility and Isolation through Kernel Space Interception.</li>
 <li><div class="pubtitle">MLSys 2025</div> &nbsp;<span class="font-bold">Shulai Zhang</span>, Ningxin Zheng, Haibin Lin, Ziheng Jiang, Wenlei Bao, Chengquan Jiang, Qi Hou, Weihao Cui, Size Zheng, Li-Wen Chang, Quan Chen, Xin Liu. Comet: Fine-grained computation-communication overlapping for mixture-of-experts.</li>
 <li><div class="pubtitle">TACO 2025</div> &nbsp;Yifu He, Han Zhao, Weihao Cui, <span class="font-bold">Shulai Zhang</span>, Quan Chen, Minyi Guo. Arachine: Optimizing distributed parallel applications with reduced inter-process communication.</li>
@@ -120,4 +122,3 @@ Feel free to reach out if you are interested in potential collaboration!
 <img alt="last updated" src="https://img.shields.io/github/last-commit/lzjzx1122/lzjzx1122.github.io?color=e8e8e8&label=Last%20Updated&logo=Convertio&logoColor=white&style=flat-square&labelColor=gray">  &nbsp;
 
 <a href="http://s01.flagcounter.com/more/gWC"><img src="https://s01.flagcounter.com/count2/gWC/bg_F5F5F5/txt_000000/border_8C8C8C/columns_4/maxflags_8/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
-
