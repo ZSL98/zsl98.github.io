@@ -41,9 +41,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Shulai Zhang, a research scientist at Huawei's 2012 lab. I received my Ph.D. degree in Computer Science from Shanghai Jiao Tong University, supervised by [Prof. Quan Chen](https://www.cs.sjtu.edu.cn/~chen-quan/index_EN.html).
-My research interests lie in optimizing AI systems on modern hardware, leveraging techniques including scheduling/compiling/resource-managing. I am now focusing on building data-centric OS infrastructure tailored for LLM/RL systems. Prior to joining Huawei, I had a wonderful experience at Bytedance [Seed](https://seed.bytedance.com/en/).
-Feel free to reach out if you are interested in potential collaboration!
+I am a Research Engineer at ByteDance Seed, focusing on AI infrastructure. I received my Ph.D. in Computer Science from Shanghai Jiao Tong University, advised by Prof. Quan Chen.
+My research interests center on optimizing AI systems for modern hardware, spanning scheduling, compilation, and resource management. Prior to joining Seed, I gained industry experience at Huawei.
+*Seed is hiring in 2026! Feel free to reach out.*
+
+<!--
+I am currently a Research Engineer at Bytedance [Seed](https://seed.bytedance.com/en/) and I work on AI infra. I received my Ph.D. degree in Computer Science from Shanghai Jiao Tong University, supervised by [Prof. Quan Chen](https://www.cs.sjtu.edu.cn/~chen-quan/index_EN.html).
+My research interests lie in optimizing AI systems on modern hardware, leveraging techniques including scheduling/compiling/resource-managing. Prior to joining Seed, I also had an experience at Huawei.
+-->
 
 <!-- I am now a Postdoc at [Emerging Parallel Computing Center (EPCC)](http://epcc.sjtu.edu.cn) and a visiting scholar at NTU (Nanyang Technological University) [S-Lab](https://personal.ntu.edu.sg/tianwei.zhang/supervision.html). I obtained my Ph.D. from Shanghai Jiao Tong University (SJTU) under the supervision of [Prof. Quan Chen](https://www.cs.sjtu.edu.cn/~chen-quan/index_EN.html) and [Prof. Minyi Guo](https://cs.sjtu.edu.cn/~guo-my/). Before that, I received Bachelor degree at School of Information and Software Engineering, University Of Electronic Science And Technology Of China (UESTC). My research interests include Cloud-Native System and General-purpose Serverless Computing, particularly how to design serverless systems and provide elastic resource management for workflows and stateful functions. If you are interested in my project details, feel free to email me. 
 -->
